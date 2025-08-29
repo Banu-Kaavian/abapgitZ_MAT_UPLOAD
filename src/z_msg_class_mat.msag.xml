@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>Z_MSG_CLASS_MAT</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Material Upload message group</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_MSG_CLASS_MAT</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Material &amp;1 does not exist</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_MSG_CLASS_MAT</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Material - Class type missing</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_MSG_CLASS_MAT</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Material Classification for &amp;1,&amp;2 created</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_MSG_CLASS_MAT</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Characteristic &amp;1 not found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_MSG_CLASS_MAT</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>No Material classification details found</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>Z_MSG_CLASS_MAT</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Please check Material number in Key predicate</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
